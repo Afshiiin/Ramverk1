@@ -9038,3 +9038,71 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 .site-logo-text a {
     color: #9fb129;
 }
+
+select {
+    height: 30px;
+}
+
+.ip-table {
+    background-color: #000;
+    text-align: center;
+}
+
+.ip-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+.ip-table td {
+    background-color: #f2f2f2;
+    padding: 5px;
+    text-align: center;
+}
+
+.div-ip {
+    display: grid;
+}
+
+.ip-flex {
+    justify-content: space-around;
+    margin: 0% 5%;
+}
+
+.ip-form {
+    display: grid;
+    max-width: 51%;
+    margin-left: 25%;
+    margin-bottom: 1%;
+}
+
+.ip-table {
+    max-width: 50%;
+    margin-left: 25%;
+    margin-bottom: 1%;
+}
+
+.ip-table a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.ip-table a:hover {
+    background-color: #424242;
+    color: white;
+}
+
+select {
+    background-color: #4CAF50;
+}
+
+.input-id {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.p-hide {
+    display: none;
+}

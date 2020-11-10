@@ -79,5 +79,6 @@ return [
             "url" => "checkIP",
             "title" => "Check en IP.",
         ],
+        
     ],
 ];
